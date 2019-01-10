@@ -1,0 +1,28 @@
+{
+    "name": "izejuy/bakery",
+    "description": "A simple PHP extension for basic cookie functions.",
+    "keywords": [],
+    "type": "library",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Nicholas English",
+            "email": "izejuy@gmail.com",
+            "homepage": "https://github.com/izejuy",
+            "role": "Developer"
+        }
+    ],
+    "require": {
+        "php": ">=7.2"
+    },
+    "require-dev": {
+        "phpunit/phpunit": "^7",
+        "vimeo/psalm": "^2"
+    },
+    "autoload": {
+        "psr-4": {
+            "Bakery\\": "./src"
+        }
+    },
+    "prefer-stable": true
+}
