@@ -1,7 +1,12 @@
 {
     "name": "izejuy/bakery",
     "description": "A simple PHP extension for basic cookie functions.",
-    "keywords": [],
+    "keywords": [
+        "php",
+        "extension",
+        "cookie",
+        "secure"
+    ],
     "type": "library",
     "license": "MIT",
     "authors": [
