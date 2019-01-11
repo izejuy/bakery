@@ -4,7 +4,7 @@
     "keywords": [
         "php",
         "extension",
-        "cookie",
+        "cookiejar",
         "secure"
     ],
     "type": "library",
