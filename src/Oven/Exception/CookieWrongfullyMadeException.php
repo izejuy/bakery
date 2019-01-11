@@ -7,4 +7,6 @@ namespace Bakery\Oven\Exception;
 
 use Exception;
 
-class CookieWrongfullyMadeException extends Exception implements ExceptionInterface { }
+class CookieWrongfullyMadeException extends Exception implements ExceptionInterface
+{
+}
