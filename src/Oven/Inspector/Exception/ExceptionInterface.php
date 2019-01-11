@@ -4,7 +4,7 @@ declare(strict_types=1);
  * Baker - A simple PHP extension for basic cookie functions.
  */
 
-namespace Bakery\Oven\Exception;
+namespace Bakery\Oven\Inspector\Exception;
 
 use Throwable;
 
